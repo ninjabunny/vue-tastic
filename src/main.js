@@ -12,10 +12,12 @@ new Vue({
 	render: h => h(App)
 })
 
-// enable vue-router
-Vue.use(VueRouter);
+
+
 
 // 0. If using a module system, call Vue.use(VueRouter)
+// enable vue-router
+Vue.use(VueRouter);
 
 // 1. Define route components.
 // These can be imported from other files
