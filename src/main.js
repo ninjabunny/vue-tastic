@@ -12,7 +12,7 @@ new Vue({
 	render: h => h(App)
 })
 
-
+// asdasdasd
 
 
 // 0. If using a module system, call Vue.use(VueRouter)
